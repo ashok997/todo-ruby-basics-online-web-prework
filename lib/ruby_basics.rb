@@ -4,14 +4,14 @@ def division(num1, num2)
 end
 
 def assign_variable(person)
-  name = person
+  name1 = person
 end
 
 def argue (arg)
   arg
 end
 
-def greeting
+def greeting (greeting,name2)
 
 end
 
