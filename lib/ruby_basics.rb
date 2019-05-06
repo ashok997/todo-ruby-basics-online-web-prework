@@ -3,8 +3,8 @@ def division(num1, num2)
  result
 end
 
-def assign_variable(value)
-  
+def assign_variable(person)
+  name = person
 end
 
 def argue
